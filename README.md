@@ -1,7 +1,7 @@
 # practicepython.org
 solutions for practicepython.org exercises
 
-Hi, I'm a south korean and 35 years old man.
+Hi, I'm a south korean and 33 years old man.
 
 I want to horn my python programming skill so I decided to solve problems on practicepython.org.
 
