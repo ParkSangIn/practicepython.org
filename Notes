@@ -1,0 +1,5 @@
+ex01
+print문을 사용할때 스트링내의 {0} {1} {2}의 순서는 상관이없다.
+python 3.x shell script내에서 파일을 실행하는 방법 : exec(open("C:\\test.py").read())
+
+ex02
