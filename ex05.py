@@ -21,4 +21,6 @@ print(dic1, dic2, sep='\n')
 
 print("Intersection of two lists : {}".format(list(set(dic1) & set(dic2))))
 
-#extra2 - please tell me how to do this..
+#extra2
+print("extra2:")
+print(list(set([m for m in a if m in b])))
