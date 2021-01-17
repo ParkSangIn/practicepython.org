@@ -13,7 +13,7 @@ list_num = soup.select('div.entry-content.group > p')
 
 for tag in list_num[:6]:
 	if tag == list_num[2]:
-		print(tag.get_text().strip('  ', '\n', '\t'))
+		print(tag.get_text().strip())
 	else:
 		print(tag.get_text())
 
